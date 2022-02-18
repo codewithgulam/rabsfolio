@@ -13,3 +13,12 @@
         justify-content: center;
     }
 }
+
+@media screen and (max-width:300px) {
+    #preview {
+        width: 250px;
+    }
+    .main-container {
+        background-color: red;
+    }
+}
